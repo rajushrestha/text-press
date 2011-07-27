@@ -1,0 +1,51 @@
+#labels readme,changelog,demo
+*README*
+demo site: http://text.press.pricebill.com
+------------------------------------------------------------------------------------------------------
+texTPress is a simple CMS that can accelerate your work in making the website. 
+You can design the website as usual. To make your website become more interactive, 
+you simply setup texTPress.
+
+texTPress is built without the need for setting the database, because it uses text file as 
+data storage media. Once you finish putting the files to the server, this application 
+can be executed directly.
+
+Installation:
+1) Upload all the files
+2) Change the permissions on the folder "files" to 777
+3) Run your application for the first time to set your admin password
+
+Requirement:
+1) Minimum space 1MB for textPress and the remaining space for data storage
+2) php enable
+3) htaccess enable
+
+How to design your site:
+1) Design your website as usual. Than save as html file. 
+2) Include file with pattern ".inc.php" to certain place
+3) Split your file at content position. Put one into header.inc.php and another one into footer.inc.php
+5) Your website is changed
+
+How to Update:
+Replace all files
+
+
+
+
+*CHANGE LOG*
+texTPress - v1.1
+===========================
+- auto post / auto blogging
+- content list: new,popular,recent
+- fix some bugs
+
+texTPress - New Release - v1.0
+===========================
+- Instalation process
+- Add, edit, del, view content
+- SEO friendly symlink
+- WYSIWYG Editor by Tiny MCE
+- Color harmony
+- Statistics
+- Online user and their position
+- Smart menu button
