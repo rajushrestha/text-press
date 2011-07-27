@@ -1,5 +1,6 @@
 #labels readme,changelog,demo
 *README*
+
 demo site: http://text.press.pricebill.com
 ------------------------------------------------------------------------------------------------------
 texTPress is a simple CMS that can accelerate your work in making the website. 
@@ -33,6 +34,7 @@ Replace all files
 
 
 *CHANGE LOG*
+------------------------------------------------------------------------------------------------------
 texTPress - v1.1
 ===========================
 - auto post / auto blogging
