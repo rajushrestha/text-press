@@ -1,1 +1,1 @@
-texTPress v6.01
+texTPress v6.0
